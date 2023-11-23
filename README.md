@@ -6,3 +6,6 @@ Run the CLI tool to scan your template files for classes and build your CSS.
 ```
 npx tailwindcss -i ./src/input.css -o ./dist/assets/main.css --watch
 ```
+
+## Preview
+![](media/tailwind-landing-page.gif)
